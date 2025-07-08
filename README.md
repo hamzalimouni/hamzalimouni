@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-iota-seven.vercel.app/](https://3d-portfolio-iota-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hamza-portfolio-eight-mu.vercel.app/](https://hamza-portfolio-eight-mu.vercel.app/)
 
 - 💬 Ask me about **react, node**
 
 - 📫 How to reach me **elyamounihamza1@gmail.com**
 
-- 📄 Know about my experiences [https://3d-portfolio-iota-seven.vercel.app/](https://3d-portfolio-iota-seven.vercel.app/)
+- 📄 Know about my experiences [https://hamza-portfolio-eight-mu.vercel.app/](https://hamza-portfolio-eight-mu.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
